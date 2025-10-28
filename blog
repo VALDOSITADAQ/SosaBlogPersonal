@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Blog de Música - Entrada 2</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Blog de Música 🎵</h1>
+
+    <h2>Entrada 2: ¿Por qué gusta tanto?</h2>
+    <p>
+      A mucha gente le gusta porque su música es pegadiza y habla de cosas que pasan en la vida de hoy.
+      Además, cada álbum tiene estilos diferentes y eso hace que no se vuelva repetitivo.
+    </p>
+
+    <p><a href="musica1.html">← Entrada anterior</a></p>
+    <p><a href="index.html">Volver</a></p>
+  </body>
+</html>
